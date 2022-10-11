@@ -1,7 +1,7 @@
 # It's me, Nabil. 😺
 A keen full stack developer and UI/UX enthusiast based in Indonesia. I've been working on a couple of software-related projects both for individuals and companies since past years. My current fave stack is revolving around node.js, SQL, Vue3, and other web frameworks with over 3 years of experience. I'm eager to expand my skillset whenever I have the opportunity to do it. :)
 
-Curious with other side of me? checkout **https://naphz.com/**
+Curious with other side of me? checkout **https://naphz.carrd.co/**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klerikdust&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
