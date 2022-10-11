@@ -15,7 +15,7 @@ As `Outsourced Full-stack Developer` for `Adobe Inc.,`
 **https://adobediscord.com/**<br/>
 As `In-house Developer` for non-profit organization, `ArtClub` 
 **https://artclub.life/**<br/>
-As `Developer` with [Andrew](https://github.com/Moore2021) as `Co-developer` 
+As `Developer` with [Andrew](https://github.com/Moore2021) as `Co-developer` working on Discord Bot
 **https://annie.gg/**
 
 *and many other small side projects in the backlog that aren't really worth mentioning..*
