@@ -3,8 +3,6 @@ As a seasoned full-stack developer and passionate UI/UX enthusiast based in Indo
 
 Curious with other side of me? checkout **https://naphz.carrd.co/**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klerikdust&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klerikdust&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
