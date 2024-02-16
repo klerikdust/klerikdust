@@ -9,11 +9,11 @@ Curious with other side of me? checkout **https://naphz.carrd.co/**
 ## Portfolio ✨
 I would like to highlight several projects that have played a pivotal role in enhancing my skills over the years, and for which I am proud to have contributed my expertise.
 
-As `Outsourced Full-stack Developer` for `Adobe Inc.,` 
+As `Freelance Full-stack Developer` for `Adobe Inc.,` 
 **https://adobediscord.com/**<br/>
-As `In-house Developer` for non-profit organization, `ArtClub` 
+As `Freelance Bot Developer` for non-profit organization, `ArtClub` 
 **https://artclub.life/**<br/>
-As `Developer` with [Andrew](https://github.com/Moore2021) as `Co-developer` working on Discord Bot
+As `Bot Developer` with [Andrew](https://github.com/Moore2021) as `Co-developer` working on Discord Bot
 **https://annie.gg/**
 
 *While there are many other small side projects in my backlog that I may not have mentioned, I am excited to bring my passion for software development and commitment to excellence to any new project or challenge that comes my way.*
