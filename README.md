@@ -1,7 +1,5 @@
 # it's me, nabil. 😺
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klerikdust&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Portfolio
 
 (2022-2023) As `Freelance Full-stack Developer` for `Adobe Inc.,` 
